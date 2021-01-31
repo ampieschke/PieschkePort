@@ -6,7 +6,7 @@
 [https](https://github.com/ampieschke/PieschkePort)
 
 * Deployed link here: 
-[Live Web link]()
+[Live Web link](https://ampieschke.github.io/PieschkePort/)
 
 # Screenshot
 (Assets/Portfolio SC.PNG)
