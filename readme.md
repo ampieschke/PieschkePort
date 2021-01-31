@@ -9,4 +9,4 @@
 [Live Web link](https://ampieschke.github.io/PieschkePort/)
 
 # Screenshot
-(Assets/Portfolio_SC.PNG)
+![Main](Assets/Portfolio_SC.PNG)
