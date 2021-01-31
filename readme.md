@@ -3,10 +3,10 @@
 
 # Links
 * GitHub repo: 
-[https](https://github.com/ampieschke/PieschkePort)
+[Code Link](https://github.com/ampieschke/PieschkePort)
 
 * Deployed link here: 
 [Live Web link](https://ampieschke.github.io/PieschkePort/)
 
 # Screenshot
-(Assets/Portfolio SC.PNG)
+(./Assets/Portfolio SC.PNG)
