@@ -40,6 +40,10 @@ p {
   font-family: helvetica, sans-serif !important;
 }
 
+.txtcon {
+  color: #5e90c9;
+}
+
 .btn {
   background-color: #5e90c9 !important;
   border: #5e90c9 !important;
