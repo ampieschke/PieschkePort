@@ -19,8 +19,14 @@
   padding: 10px 50px;
 }
 
+.lead{
+  transform: translateY(-30px);
+  background-color: #5e90c9;
+  text-align: center;
+}
+
 h2 {
-  color: #2c3f8f;
+  color: white;
   font-weight: bold;
   font-family: helvetica, sans-serif;
 }
