@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-new",
+  "version": "1.0.0",
+  "description": "- The purpose of this project is to share my work with others and explore collaboration with others.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ampieschke/PieschkePort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ampieschke/PieschkePort/issues"
+  },
+  "homepage": "https://github.com/ampieschke/PieschkePort#readme"
+}
